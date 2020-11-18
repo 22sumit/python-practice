@@ -1,7 +1,13 @@
+# Method 1
 s="assassination"
 l1=[{i:s.count(i)} for i in set(s)]
 print(l1)
 
-# d={l1(i) for i in l1}
-# print(d)
-
+#Method 2
+d={}
+for char in s:
+    if char in d.keys():
+        d[char]+=1
+    else:
+        d[char]=1
+print(d)
