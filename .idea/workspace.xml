@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ad7b1f0-2890-4486-87f0-c411853d2844" name="Default Changelist" comment="" />
+    <list default="true" id="8ad7b1f0-2890-4486-87f0-c411853d2844" name="Default Changelist" comment="char count method 2">
+      <change afterPath="$PROJECT_DIR$/Database/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiCalls/getReq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concepts/enumerate_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concepts/filterMapReduce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concepts/tryExcept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/2ndLargestNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/Calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/ExceptionCustom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/armstrongNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/commonLettersinString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/mapFunc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/primeNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/randomNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/vowelsInString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sortingMethods/bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sortingMethods/selection_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,17 +52,140 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XfafizpZp0JndEw1V39HjQEoE1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/concepts" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git\python-practice\concepts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.filterMapReduce">
+    <configuration name="armstrongNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonPractise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/general programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/general programs/armstrongNumber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="filterMapReduce (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonPractise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/concepts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concepts/filterMapReduce.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="filterMapReduce" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonPractise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/general programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\git\python-practice\concepts\filterMapReduce.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="randomNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonPractise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/general programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/general programs/randomNumber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tryExcept" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonPractise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/general programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\git\python-practice\concepts\tryExcept.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test_exampleOne" type="tests" factoryName="py.test">
       <module name="pythonPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -35,12 +196,23 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;-s&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_exampleOne.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.filterMapReduce" />
+        <item itemvalue="Python.filterMapReduce (1)" />
+        <item itemvalue="Python.tryExcept" />
+        <item itemvalue="Python.randomNumber" />
+        <item itemvalue="Python.armstrongNumber" />
+      </list>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -52,36 +224,130 @@
       <option name="presentableId" value="Default" />
       <updated>1581439707527</updated>
     </task>
+    <task id="LOCAL-00001" summary="balanced bracket">
+      <created>1605605420190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605605420190</updated>
+    </task>
+    <task id="LOCAL-00002" summary="balanced bracket">
+      <created>1605610759237</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605610759237</updated>
+    </task>
+    <task id="LOCAL-00003" summary="balanced bracket">
+      <created>1605612455679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605612455679</updated>
+    </task>
+    <task id="LOCAL-00004" summary="chars count list comp">
+      <created>1605614010950</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605614010950</updated>
+    </task>
+    <task id="LOCAL-00005" summary="string reversal">
+      <created>1605689747882</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605689747882</updated>
+    </task>
+    <task id="LOCAL-00006" summary="sum of digits">
+      <created>1605703328008</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605703328008</updated>
+    </task>
+    <task id="LOCAL-00007" summary="char count method 2">
+      <created>1605703635813</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605703635813</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="balanced bracket" />
+    <MESSAGE value="chars count list comp" />
+    <MESSAGE value="string reversal" />
+    <MESSAGE value="sum of digits" />
+    <MESSAGE value="char count method 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="char count method 2" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581441141912">
+    <state x="380" y="164" key="#Notifications" timestamp="1605596643036">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1581441141912" />
-    <state width="1259" height="224" key="GridCell.Tab.0.bottom" timestamp="1581441561103">
+    <state x="380" y="164" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1605596643036" />
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1607875484620">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="224" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581441561103" />
-    <state width="1259" height="224" key="GridCell.Tab.0.center" timestamp="1581441561099">
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1607875484620" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1607876013793">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="224" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581441561099" />
-    <state width="1259" height="224" key="GridCell.Tab.0.left" timestamp="1581441561099">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607876013793" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1607876013793">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="224" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581441561099" />
-    <state width="1259" height="224" key="GridCell.Tab.0.right" timestamp="1581441561099">
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607876013793" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1607876013793">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="224" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581441561099" />
-    <state x="144" y="0" key="SettingsEditor" timestamp="1581439963175">
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607876013793" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1607876013793">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581439963175" />
-    <state x="348" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1581439759259">
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607876013793" />
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom" timestamp="1606191661156">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="348" y="167" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1581439759259" />
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606191661156" />
+    <state width="1259" height="204" key="GridCell.Tab.1.center" timestamp="1606191661155">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1606191661155" />
+    <state width="1259" height="204" key="GridCell.Tab.1.left" timestamp="1606191661155">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1606191661155" />
+    <state width="1259" height="204" key="GridCell.Tab.1.right" timestamp="1606191661156">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1606191661156" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1602165533092">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602165533092" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1605703332205">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605703332205" />
+    <state x="303" y="1" key="search.everywhere.popup" timestamp="1605963456457">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1605963456457" />
   </component>
 </project>
