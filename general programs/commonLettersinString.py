@@ -1,6 +1,7 @@
 # Check Common Letters in Two Input Strings
 s1="asqwwerqwiw"
 s2="iiaqewerererigotupuasdsfdjfkg"
+
 # Method 1
 a=list(set(s1)&set(s2))
 print(a)

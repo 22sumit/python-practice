@@ -20,25 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ad7b1f0-2890-4486-87f0-c411853d2844" name="Default Changelist" comment="char count method 2">
-      <change afterPath="$PROJECT_DIR$/Database/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiCalls/getReq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concepts/enumerate_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concepts/filterMapReduce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concepts/tryExcept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/general programs/2ndLargestNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/general programs/Calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/general programs/ExceptionCustom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/general programs/armstrongNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/general programs/commonLettersinString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/general programs/mapFunc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/general programs/palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/general programs/primeNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/general programs/randomNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/general programs/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/general programs/vowelsInString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sortingMethods/bubble_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sortingMethods/selection_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concepts/ExceptionHandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/sumOfNumbersInAString.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/databasePymongo/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general programs/Calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/general programs/Calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general programs/CharsCount.py" beforeDir="false" afterPath="$PROJECT_DIR$/general programs/CharsCount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general programs/commonLettersinString.py" beforeDir="false" afterPath="$PROJECT_DIR$/general programs/commonLettersinString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general programs/mapFunc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/general programs/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/general programs/palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general programs/reverseString.py" beforeDir="false" afterPath="$PROJECT_DIR$/general programs/reverseString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general programs/star1.py" beforeDir="false" afterPath="$PROJECT_DIR$/general programs/star1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general programs/sumOfDigitsRecursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/general programs/sumOfDigitsRecursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general programs/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/general programs/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general programs/vowelsInString.py" beforeDir="false" afterPath="$PROJECT_DIR$/general programs/vowelsInString.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +76,8 @@
       <recent name="D:\git\python-practice\concepts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.filterMapReduce">
-    <configuration name="armstrongNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.fibonacci">
+    <configuration name="ExceptionCustom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/general programs/armstrongNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/general programs/ExceptionCustom.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="filterMapReduce (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ExceptionHandling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concepts/filterMapReduce.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concepts/ExceptionHandling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="filterMapReduce" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\git\python-practice\concepts\filterMapReduce.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/general programs/fibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="randomNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="star1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,7 +152,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/general programs/randomNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/general programs/star1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tryExcept" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sumOfNumbersInAString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,7 +173,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\git\python-practice\concepts\tryExcept.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/general programs/sumOfNumbersInAString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.filterMapReduce" />
-        <item itemvalue="Python.filterMapReduce (1)" />
-        <item itemvalue="Python.tryExcept" />
-        <item itemvalue="Python.randomNumber" />
-        <item itemvalue="Python.armstrongNumber" />
+        <item itemvalue="Python.fibonacci" />
+        <item itemvalue="Python.ExceptionCustom" />
+        <item itemvalue="Python.sumOfNumbersInAString" />
+        <item itemvalue="Python.ExceptionHandling" />
+        <item itemvalue="Python.star1" />
       </list>
     </recent_temporary>
   </component>
@@ -296,58 +292,25 @@
     <MESSAGE value="char count method 2" />
     <option name="LAST_COMMIT_MESSAGE" value="char count method 2" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="380" y="164" key="#Notifications" timestamp="1605596643036">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="380" y="164" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1605596643036" />
-    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1607875484620">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1607875484620" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1607876013793">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1607876013793" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1607876013793">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1607876013793" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1607876013793">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1607876013793" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1607876013793">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1607876013793" />
-    <state width="1259" height="204" key="GridCell.Tab.1.bottom" timestamp="1606191661156">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606191661156" />
-    <state width="1259" height="204" key="GridCell.Tab.1.center" timestamp="1606191661155">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1606191661155" />
-    <state width="1259" height="204" key="GridCell.Tab.1.left" timestamp="1606191661155">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1606191661155" />
-    <state width="1259" height="204" key="GridCell.Tab.1.right" timestamp="1606191661156">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1606191661156" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1602165533092">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602165533092" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1605703332205">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605703332205" />
-    <state x="303" y="1" key="search.everywhere.popup" timestamp="1605963456457">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="303" y="1" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1605963456457" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/general programs/sumOfNumbersInAString.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/general programs/sumOfNumbersInAString.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/general programs/fibonacci.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

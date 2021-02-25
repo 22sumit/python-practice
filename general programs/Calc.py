@@ -9,8 +9,8 @@ class Calc:
     def sum(self):
         return self.first+self.second
 
-obj1=Calc()
-obj1.getData()
+# obj1=Calc()
+# obj1.getData()
 obj=Calc(10,20)
 obj.getData()
 s=obj.sum()
