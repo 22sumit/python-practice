@@ -2,16 +2,30 @@ import requests
 import json
 
 # url = 'https://api.github.com/some/endpoint'
+# url2="https://pokeapi.co/api/v2/pokemon/ditto"
 # payload = {'some': 'data'}
 # headers = {'content-type': 'application/json'}
-
-resp=requests.get("https://pokeapi.co/api/v2/pokemon/ditto")
+url1="https://reqres.in/"
+resp=requests.get(url1+"api/users?page=2")
 status=resp.status_code
 print("Response text: ", resp.text)
 
 # extracting data in json format
 print("Response json: ", resp.json())
 print(status)
+
+payload={"name": "sumit","job": "QA"}
+resp2=requests.post(url1+"api/users", json=payload)
+print(resp2.status_code)
+print(resp2.text)
+
+patch_payload={"name": "morpheus", "job": "zion resident"}
+resp3=requests.patch(url1+"api/users/2", json=patch_payload)
+print(resp3.status_code)
+print(resp3.text)
+
+resp4=requests.delete(url1+"api/users/2")
+print(resp4.status_code)
 
 # requests.post('https://httpbin.org/post', json={'key1':'value1','key2':'value2'})
 # requests.put('https://httpbin.org/put', data={'key':'value'})
