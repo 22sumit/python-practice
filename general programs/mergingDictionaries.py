@@ -10,5 +10,7 @@ d=x.copy()
 d.update(y)
 print(d)
 
-'''In python 3.9 this can be done simply by:
-d1 = x | y  '''
+'''
+In python 3.9 this can be done simply by:
+d1 = x | y  
+'''
