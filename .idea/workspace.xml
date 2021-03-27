@@ -20,15 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ad7b1f0-2890-4486-87f0-c411853d2844" name="Default Changelist" comment="additional programs added">
-      <change afterPath="$PROJECT_DIR$/concepts/classmethod_staticmethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concepts/decorators_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concepts/general_program_oops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concepts/list_comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concepts/joining iterators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concepts/monkey_patching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concepts/regular_expressions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/Concept1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/cyclic_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/parenthesis_validity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/return_with_space.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/string_test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/string_test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/string_test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/string_test4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/string_test5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/string_test6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/triangle_sides.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concepts/filterMapReduce.py" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/filterMapReduce.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/concepts/zip_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/zip_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/general programs/mergingDictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/general programs/mergingDictionaries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sshConnection/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/args_kwargs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general programs/primeNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/general programs/primeNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general programs/sumOfNumbersInAString.py" beforeDir="false" afterPath="$PROJECT_DIR$/general programs/sumOfNumbersInAString.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +59,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1XfafizpZp0JndEw1V39HjQEoE1" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -70,8 +87,8 @@
       <recent name="D:\git\python-practice\concepts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.zip_demo">
-    <configuration name="classmethod_staticmethod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.primeNumber">
+    <configuration name="parenthesis_validity" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/concepts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/general programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concepts/classmethod_staticmethod.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/general programs/parenthesis_validity.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decorators_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="primeNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/concepts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/general programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concepts/decorators_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/general programs/primeNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="filterMapReduce" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="string_test5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/concepts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/general programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concepts/filterMapReduce.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/general programs/string_test5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="string_test6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/concepts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/general programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concepts/list_comprehension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/general programs/string_test6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zip_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="triangle_sides" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +180,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/concepts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/general programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concepts/zip_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/general programs/triangle_sides.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.zip_demo" />
-        <item itemvalue="Python.classmethod_staticmethod" />
-        <item itemvalue="Python.decorators_demo" />
-        <item itemvalue="Python.filterMapReduce" />
-        <item itemvalue="Python.list_comprehension" />
+        <item itemvalue="Python.primeNumber" />
+        <item itemvalue="Python.triangle_sides" />
+        <item itemvalue="Python.string_test6" />
+        <item itemvalue="Python.parenthesis_validity" />
+        <item itemvalue="Python.string_test5" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614685704986</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="additional programs added">
+      <created>1614768727024</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1614768727024</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,13 +329,13 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/general programs/sumOfNumbersInAString.py</url>
-          <line>4</line>
+          <url>file://$PROJECT_DIR$/general programs/string_test3.py</url>
+          <line>44</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/general programs/sumOfNumbersInAString.py</url>
-          <line>9</line>
+          <url>file://$PROJECT_DIR$/general programs/parenthesis_validity.py</url>
+          <line>7</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

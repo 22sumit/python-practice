@@ -11,6 +11,5 @@ for i in n:
 
 if (temp != ""):
     sum = sum + int(temp)
-    temp = 0
 
 print(sum)

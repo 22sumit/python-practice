@@ -8,8 +8,8 @@ print(type(res))
 z=zip(month, num)
 z1=list(zip(month,num)) #returns a list of tuples
 print(z) #returns a zip object
-print(dict(z))  #returns a list of tuples
-print(z1)
+print(dict(z))  #returns a dictionary
+print(z1)   #returns a list of tuples
 
 '''
 zip function returns an iterator capable of producing tuples.
