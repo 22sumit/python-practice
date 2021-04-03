@@ -1,0 +1,329 @@
+{
+  "data": [
+    {
+      "id": "028e5ec0-7828-42f9-94e8-c2966ece3ea2",
+      "type": "files",
+      "attributes": {
+        "fileId": "c7088011-a967-4f78-b653-3eb43d28af9e",
+        "name": "dummy.pdf",
+        "category": 0,
+        "subCategory": 9,
+        "createdUtc": "2020-08-28T07:06:42.033223",
+        "deletedUtc": "9999-12-31T23:59:59.999999",
+        "originalFileDateUtc": null,
+        "linkType": "files",
+        "entityId": null,
+        "fileActions": {
+          "move": true,
+          "rename": true
+        },
+        "deniedInfo": null,
+        "ownerVersionNumber": 51,
+        "ownerId": "df2b0f03-2450-4d15-88d7-4805f0b7c20d"
+      },
+      "links": {
+        "self": "https://ecsandproxyawsstage.flqa.net/EmployeeApi/api/employees/df2b0f03-2450-4d15-88d7-4805f0b7c20d/files/028e5ec0-7828-42f9-94e8-c2966ece3ea2"
+      }
+    },
+    {
+      "id": "e31d578b-19dd-49b7-bb76-86de416ab238",
+      "type": "files",
+      "attributes": {
+        "fileId": "2e639037-9038-4bdd-8c9b-27d2c323d1e1",
+        "name": "Test file.pdf",
+        "category": 0,
+        "subCategory": 3,
+        "createdUtc": "2020-09-07T08:56:58.236519",
+        "deletedUtc": "9999-12-31T23:59:59.999999",
+        "originalFileDateUtc": null,
+        "linkType": "files",
+        "entityId": null,
+        "fileActions": {
+          "move": true,
+          "rename": true
+        },
+        "deniedInfo": null,
+        "ownerVersionNumber": 51,
+        "ownerId": "df2b0f03-2450-4d15-88d7-4805f0b7c20d"
+      },
+      "links": {
+        "self": "https://ecsandproxyawsstage.flqa.net/EmployeeApi/api/employees/df2b0f03-2450-4d15-88d7-4805f0b7c20d/files/e31d578b-19dd-49b7-bb76-86de416ab238"
+      }
+    },
+    {
+      "id": "53084534-bb9a-4a6a-8ee4-effbf7cd2784",
+      "type": "files",
+      "attributes": {
+        "fileId": "7ad69211-6432-41d8-8919-a2e4af05ed1b",
+        "name": "dummy.pdf",
+        "category": 0,
+        "subCategory": 3,
+        "createdUtc": "2020-08-28T10:25:45.907833",
+        "deletedUtc": "9999-12-31T23:59:59.999999",
+        "originalFileDateUtc": null,
+        "linkType": "files",
+        "entityId": null,
+        "fileActions": {
+          "move": true,
+          "rename": true
+        },
+        "deniedInfo": null,
+        "ownerVersionNumber": 51,
+        "ownerId": "df2b0f03-2450-4d15-88d7-4805f0b7c20d"
+      },
+      "links": {
+        "self": "https://ecsandproxyawsstage.flqa.net/EmployeeApi/api/employees/df2b0f03-2450-4d15-88d7-4805f0b7c20d/files/53084534-bb9a-4a6a-8ee4-effbf7cd2784"
+      }
+    },
+    {
+      "id": "cfaf200f-ec33-4b3b-ae4e-23d3ae69b1e2",
+      "type": "files",
+      "attributes": {
+        "fileId": "66abfa1c-9488-4020-9817-dd4266a0d04a",
+        "name": "Cisco_WebEx_Add-On.exe",
+        "category": 0,
+        "subCategory": 0,
+        "createdUtc": "2020-08-28T15:14:33.792518",
+        "deletedUtc": "9999-12-31T23:59:59.999999",
+        "originalFileDateUtc": null,
+        "linkType": "files",
+        "entityId": null,
+        "fileActions": {
+          "move": true,
+          "rename": true
+        },
+        "deniedInfo": null,
+        "ownerVersionNumber": 51,
+        "ownerId": "df2b0f03-2450-4d15-88d7-4805f0b7c20d"
+      },
+      "links": {
+        "self": "https://ecsandproxyawsstage.flqa.net/EmployeeApi/api/employees/df2b0f03-2450-4d15-88d7-4805f0b7c20d/files/cfaf200f-ec33-4b3b-ae4e-23d3ae69b1e2"
+      }
+    },
+    {
+      "id": "8879fdb7-a4c2-4029-a94a-9610002443b4",
+      "type": "files",
+      "attributes": {
+        "fileId": "0f3c976c-947d-43a7-a3eb-b30c49b0b4de",
+        "name": "no-results.png",
+        "category": 0,
+        "subCategory": 2,
+        "createdUtc": "2020-09-09T06:58:34.739033",
+        "deletedUtc": "9999-12-31T23:59:59.999999",
+        "originalFileDateUtc": null,
+        "linkType": "files",
+        "entityId": null,
+        "fileActions": {
+          "move": true,
+          "rename": true
+        },
+        "deniedInfo": null,
+        "ownerVersionNumber": 51,
+        "ownerId": "df2b0f03-2450-4d15-88d7-4805f0b7c20d"
+      },
+      "links": {
+        "self": "https://ecsandproxyawsstage.flqa.net/EmployeeApi/api/employees/df2b0f03-2450-4d15-88d7-4805f0b7c20d/files/8879fdb7-a4c2-4029-a94a-9610002443b4"
+      }
+    },
+    {
+      "id": "82afa783-c17a-4667-a8ea-6fc2403077e7",
+      "type": "files",
+      "attributes": {
+        "fileId": "d10e0488-4944-46f3-ac98-50797d521d57",
+        "name": "Test file.pdf",
+        "category": 0,
+        "subCategory": 2,
+        "createdUtc": "2020-09-09T06:59:43.769845",
+        "deletedUtc": "9999-12-31T23:59:59.999999",
+        "originalFileDateUtc": null,
+        "linkType": "files",
+        "entityId": null,
+        "fileActions": {
+          "move": true,
+          "rename": true
+        },
+        "deniedInfo": null,
+        "ownerVersionNumber": 51,
+        "ownerId": "df2b0f03-2450-4d15-88d7-4805f0b7c20d"
+      },
+      "links": {
+        "self": "https://ecsandproxyawsstage.flqa.net/EmployeeApi/api/employees/df2b0f03-2450-4d15-88d7-4805f0b7c20d/files/82afa783-c17a-4667-a8ea-6fc2403077e7"
+      }
+    },
+    {
+      "id": "700734fa-5816-4e91-a25e-d2b4693c9e8a",
+      "type": "files",
+      "attributes": {
+        "fileId": "fd3a8d74-2509-48aa-bfe6-5c3aeb72c1ef",
+        "name": "contract_file.pdf",
+        "category": 0,
+        "subCategory": 2,
+        "createdUtc": "2020-09-09T06:59:53.738535",
+        "deletedUtc": "9999-12-31T23:59:59.999999",
+        "originalFileDateUtc": null,
+        "linkType": "files",
+        "entityId": null,
+        "fileActions": {
+          "move": true,
+          "rename": true
+        },
+        "deniedInfo": null,
+        "ownerVersionNumber": 51,
+        "ownerId": "df2b0f03-2450-4d15-88d7-4805f0b7c20d"
+      },
+      "links": {
+        "self": "https://ecsandproxyawsstage.flqa.net/EmployeeApi/api/employees/df2b0f03-2450-4d15-88d7-4805f0b7c20d/files/700734fa-5816-4e91-a25e-d2b4693c9e8a"
+      }
+    },
+    {
+      "id": "d8c488bb-cd91-44a2-8706-e7de696b4817",
+      "type": "files",
+      "attributes": {
+        "fileId": "3b06c6ea-1b03-47d0-9411-f5e620c670d0",
+        "name": "dummy.pdf",
+        "category": 0,
+        "subCategory": 9,
+        "createdUtc": "2020-08-28T07:30:16.633423",
+        "deletedUtc": "9999-12-31T23:59:59.999999",
+        "originalFileDateUtc": null,
+        "linkType": "files",
+        "entityId": null,
+        "fileActions": {
+          "move": true,
+          "rename": true
+        },
+        "deniedInfo": null,
+        "ownerVersionNumber": 51,
+        "ownerId": "df2b0f03-2450-4d15-88d7-4805f0b7c20d"
+      },
+      "links": {
+        "self": "https://ecsandproxyawsstage.flqa.net/EmployeeApi/api/employees/df2b0f03-2450-4d15-88d7-4805f0b7c20d/files/d8c488bb-cd91-44a2-8706-e7de696b4817"
+      }
+    },
+    {
+      "id": "e020af6f-068f-4e0e-bfe3-d7a28fe458c9",
+      "type": "files",
+      "attributes": {
+        "fileId": "0409d1e3-6eaa-4938-8ee2-590e82f1f58f",
+        "name": "dummy.pdf",
+        "category": 0,
+        "subCategory": 3,
+        "createdUtc": "2020-08-28T10:25:27.189201",
+        "deletedUtc": "9999-12-31T23:59:59.999999",
+        "originalFileDateUtc": null,
+        "linkType": "files",
+        "entityId": null,
+        "fileActions": {
+          "move": true,
+          "rename": true
+        },
+        "deniedInfo": null,
+        "ownerVersionNumber": 51,
+        "ownerId": "df2b0f03-2450-4d15-88d7-4805f0b7c20d"
+      },
+      "links": {
+        "self": "https://ecsandproxyawsstage.flqa.net/EmployeeApi/api/employees/df2b0f03-2450-4d15-88d7-4805f0b7c20d/files/e020af6f-068f-4e0e-bfe3-d7a28fe458c9"
+      }
+    },
+    {
+      "id": "4217ffff-b81f-4a80-b25e-75666802e1ab",
+      "type": "files",
+      "attributes": {
+        "fileId": "0c9b6589-771e-4bb6-9ca3-f2562cbee7ae",
+        "name": "dummy.pdf",
+        "category": 0,
+        "subCategory": 3,
+        "createdUtc": "2020-08-28T10:25:36.204768",
+        "deletedUtc": "9999-12-31T23:59:59.999999",
+        "originalFileDateUtc": null,
+        "linkType": "files",
+        "entityId": null,
+        "fileActions": {
+          "move": true,
+          "rename": true
+        },
+        "deniedInfo": null,
+        "ownerVersionNumber": 51,
+        "ownerId": "df2b0f03-2450-4d15-88d7-4805f0b7c20d"
+      },
+      "links": {
+        "self": "https://ecsandproxyawsstage.flqa.net/EmployeeApi/api/employees/df2b0f03-2450-4d15-88d7-4805f0b7c20d/files/4217ffff-b81f-4a80-b25e-75666802e1ab"
+      }
+    },
+    {
+      "id": "1bc55cce-58f9-4285-8b52-f1d8063e62da",
+      "type": "formInstances",
+      "attributes": {
+        "fileId": null,
+        "name": "FORM-REG-TEST-5248",
+        "category": 0,
+        "subCategory": 9,
+        "createdUtc": "2020-09-25T08:13:22.93112",
+        "deletedUtc": "9999-12-31T23:59:59.999999",
+        "originalFileDateUtc": null,
+        "linkType": "formInstances",
+        "entityId": "a2263495-135c-43df-9081-2e1a1e338d39",
+        "fileActions": {
+          "move": true,
+          "rename": false
+        },
+        "deniedInfo": null,
+        "ownerVersionNumber": 51,
+        "ownerId": null
+      },
+      "links": {
+        "self": "https://ecsandproxyawsstage.flqa.net/EmployeeApi/api/employees/df2b0f03-2450-4d15-88d7-4805f0b7c20d/formInstances/1bc55cce-58f9-4285-8b52-f1d8063e62da"
+      }
+    },
+    {
+      "id": "726ada35-4ca2-4892-a365-9206ef923c44",
+      "type": "formInstances",
+      "attributes": {
+        "fileId": null,
+        "name": "FORM-TEST-5248",
+        "category": 0,
+        "subCategory": 3,
+        "createdUtc": "2020-09-21T05:47:59.778664",
+        "deletedUtc": "9999-12-31T23:59:59.999999",
+        "originalFileDateUtc": null,
+        "linkType": "formInstances",
+        "entityId": "657910a3-a4c1-43cb-a026-0bc6cb609305",
+        "fileActions": {
+          "move": true,
+          "rename": false
+        },
+        "deniedInfo": null,
+        "ownerVersionNumber": 51,
+        "ownerId": null
+      },
+      "links": {
+        "self": "https://ecsandproxyawsstage.flqa.net/EmployeeApi/api/employees/df2b0f03-2450-4d15-88d7-4805f0b7c20d/formInstances/726ada35-4ca2-4892-a365-9206ef923c44"
+      }
+    },
+    {
+      "id": "0703cdb0-1646-4838-921a-5e20b407c1f0",
+      "type": "formInstances",
+      "attributes": {
+        "fileId": null,
+        "name": "FORM_REG_5007",
+        "category": 0,
+        "subCategory": 3,
+        "createdUtc": "2020-08-28T07:45:01.455772",
+        "deletedUtc": "9999-12-31T23:59:59.999999",
+        "originalFileDateUtc": null,
+        "linkType": "formInstances",
+        "entityId": "0c478ef8-bdb5-4d4d-a2a1-132f61aecc62",
+        "fileActions": {
+          "move": true,
+          "rename": false
+        },
+        "deniedInfo": null,
+        "ownerVersionNumber": 51,
+        "ownerId": null
+      },
+      "links": {
+        "self": "https://ecsandproxyawsstage.flqa.net/EmployeeApi/api/employees/df2b0f03-2450-4d15-88d7-4805f0b7c20d/formInstances/0703cdb0-1646-4838-921a-5e20b407c1f0"
+      }
+    }
+  ]
+}

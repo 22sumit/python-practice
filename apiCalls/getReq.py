@@ -8,10 +8,10 @@ import json
 url1="https://reqres.in/"
 resp=requests.get(url1+"api/users?page=2")
 status=resp.status_code
-print("Response text: ", resp.text)
+print("Response text: ", resp.text)  #plain json response
 
 # extracting data in json format
-print("Response json: ", resp.json())
+print("Response json: ", resp.json())  #json response captured in python dictionary
 print(status)
 
 payload={"name": "sumit","job": "QA"}

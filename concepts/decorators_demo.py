@@ -17,15 +17,16 @@ def f():
 
 #Example 2
 
-def smart_div(f):
+def smart_div(func):
     def wrapper(a,b):
         if a<b:
             a,b=b,a
-        return f(a,b)
+            result=func(a,b)
+        return result
     return wrapper
 
 @smart_div  # div=smart_div(div)
 def div(a,b):
-    print(a/b)
+    print(a//b)
 
 div(2,4)
