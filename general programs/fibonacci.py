@@ -44,3 +44,25 @@ def fiblist(n):
         fib += [fib[-1] + fib[-2]]
     return fib
 print(fiblist(6))
+
+#Method 5 using Generators
+def fib_gen(n):
+    x,y=0,1
+    while (x<n):
+        yield x
+        x, y = y, x + y
+
+for i in fib_gen(5):
+    print("fibgen: ",i)
+
+#To get the fibonacci numbers till any number (100 in this case) with generator
+def fib_limit():
+    a,b=0,1
+    while True:
+        yield a
+        a,b=b,a+b
+
+for i in fib_limit():
+    if i>100:
+        break
+    print("fib_limit: ",i)

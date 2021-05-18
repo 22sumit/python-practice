@@ -5,6 +5,7 @@ class Date(object):
         self.month = month
         self.year = year
 
+# class method as an alternative constructor
     @classmethod
     def from_string(cls, date_as_string):
         day, month, year = map(int, date_as_string.split('-'))

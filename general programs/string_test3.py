@@ -1,14 +1,10 @@
 
 # Python3 program for the above approach
 
-# Function to check if the strings
-# can be made equal or not by
-# reversing a substring of X
+# Function to check if the strings can be made equal or not by reversing a substring of X
 def checkString(X, Y):
 
-    # Store the first index from
-    # the left which contains unequal
-    # characters in both the strings
+    # Store the first index from the left which contains unequal characters in both the strings
     L = -1
 
     # Store the first element from

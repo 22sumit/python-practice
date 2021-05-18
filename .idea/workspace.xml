@@ -20,17 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ad7b1f0-2890-4486-87f0-c411853d2844" name="Default Changelist" comment="additional programs added">
-      <change afterPath="$PROJECT_DIR$/concepts/decoratorWithArguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concepts/exception_custom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concepts/jsonFileOperations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/emp0.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/states.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/states_new.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiCalls/session.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concepts/argparse_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concepts/arguments_cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concepts/defaultdictExample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concepts/regex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileOperations/readTillEndOfFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/general programs/pair_sum_of_digits_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/test1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apiCalls/getReq.py" beforeDir="false" afterPath="$PROJECT_DIR$/apiCalls/getReq.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concepts/decorators_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/decorators_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fileOperations/readWriteFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/fileOperations/readWriteFile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/general programs/randomNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/general programs/randomNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/classmethod_staticmethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/classmethod_staticmethod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concepts/regular_expressions.py" beforeDir="false" afterPath="$PROJECT_DIR$/concepts/regular_expressions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general programs/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/general programs/fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general programs/mergingDictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/general programs/mergingDictionaries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general programs/string_test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/general programs/string_test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general programs/string_test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/general programs/string_test3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general programs/string_test6.py" beforeDir="false" afterPath="$PROJECT_DIR$/general programs/string_test6_enumerate.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,15 +80,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/concepts" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\git\python-practice\concepts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.decoratorWithArguments">
-    <configuration name="decoratorWithArguments" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.readTillEndOfFile">
+    <configuration name="monkey_patching" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concepts/decoratorWithArguments.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concepts/monkey_patching.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,70 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decorators_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonPractise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/concepts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concepts/decorators_demo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exception_custom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonPractise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/concepts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concepts/exception_custom.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="jsonFileOperations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonPractise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/concepts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concepts/jsonFileOperations.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="randomNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pair_sum_of_digits_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,7 +121,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/general programs/randomNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/general programs/pair_sum_of_digits_10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readTillEndOfFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonPractise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fileOperations" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileOperations/readTillEndOfFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="regular_expressions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonPractise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/concepts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/concepts/regular_expressions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sumOfNumbersInAString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonPractise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/general programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/general programs/sumOfNumbersInAString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.decoratorWithArguments" />
-        <item itemvalue="Python.decorators_demo" />
-        <item itemvalue="Python.randomNumber" />
-        <item itemvalue="Python.jsonFileOperations" />
-        <item itemvalue="Python.exception_custom" />
+        <item itemvalue="Python.readTillEndOfFile" />
+        <item itemvalue="Python.sumOfNumbersInAString" />
+        <item itemvalue="Python.monkey_patching" />
+        <item itemvalue="Python.pair_sum_of_digits_10" />
+        <item itemvalue="Python.regular_expressions" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616840013177</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="additional programs added">
+      <created>1617462497190</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1617462497190</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,13 +344,13 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/general programs/string_test3.py</url>
-          <line>44</line>
+          <url>file://$PROJECT_DIR$/concepts/regex.py</url>
+          <line>10</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/general programs/parenthesis_validity.py</url>
-          <line>7</line>
+          <url>file://$PROJECT_DIR$/general programs/sumOfNumbersInAString.py</url>
+          <line>4</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

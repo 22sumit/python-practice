@@ -1,0 +1,6 @@
+# Session and Cookie mgmt in requests module:
+se=requests.session()
+cookie = {"value-date": "23/7/2021"}
+se.cookies.update(cookie)
+se.auth=auth={"username", getPassword}
+se.get(url)

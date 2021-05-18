@@ -6,7 +6,7 @@ For example, the input 'sTreSS' should return 'T'."""
 
 str="sTreSs"
 l=[i for i in set(str) if str.count(i)==1]
-print(l)
+print("l value: ", l)
 
 ind=[]
 for c in l:

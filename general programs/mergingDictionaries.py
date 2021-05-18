@@ -10,6 +10,8 @@ d=x.copy()
 d.update(y)
 print(d)
 
+x.update(y)
+print(x)
 '''
 In python 3.9 this can be done simply by:
 d1 = x | y  
